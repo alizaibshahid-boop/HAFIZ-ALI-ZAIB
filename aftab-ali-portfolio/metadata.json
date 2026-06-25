@@ -1,0 +1,6 @@
+{
+  "name": "Aftab Ali Portfolio",
+  "description": "Futuristic operations-dashboard-themed 3D portfolio website for Aftab Ali, Data Clerk Analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
